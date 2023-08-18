@@ -7,6 +7,11 @@ The 2023 Northeastern Software Day is a day-long student-led event to bring toge
 The event will take place on Tuesday, September 26, 2023 in Curry Student Center room 440 from 9am-5pm. Immediately following the event, there will be a social event at Lucky Strike Social in the Fenway neighborhood, where attendees can mix and mingle over bowling, food and drink.
 
 ### Call for Participation
+We solicit talk proposals about research at any stage from students in PL/SE/FM.
+
+There are two types of talk slots: 5-minute lightning talks and 15-minute presentations. Please indicate your preference in the form, and we will do our best to accommodate. We intend to give everyone who wants to talk the opportunity to give one.
+
+For full consideration, please complete [this form](https://forms.gle/ENyNdduh7jHMj1TH7) by September 8, 2023. Speakers will be notified of the talk length and time slot by September 13th, 2023.
 
 ### Registration
 
