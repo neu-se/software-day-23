@@ -14,6 +14,7 @@ There are two types of talk slots: 5-minute lightning talks and 15-minute presen
 For full consideration, please complete [this form](https://forms.gle/ENyNdduh7jHMj1TH7) by September 8, 2023. Speakers will be notified of the talk length and time slot by September 13th, 2023.
 
 ### Registration
+We ask that all who are planning to attend the event register in advance so that we can have an accurate headcount for food and drink. Registration will open in September 2023.
 
 ### Schedule
 
