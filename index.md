@@ -2,7 +2,7 @@
 layout: home
 ---
 
-The 2023 Northeastern Software Day is a day-long student-led event to bring togehter members of the Northeastern University community who conduct research in software. The event is open to all who are interested in research in all things software, including: programming languages, software engineering and formal methods.
+The 2023 Northeastern Software Day is a day-long student-led event to bring together members of the Northeastern University community who conduct research in software. The event is open to all who are interested in research in all things software, including: programming languages, software engineering and formal methods.
 
 The event will take place on Tuesday, September 26, 2023 in Curry Student Center room 440 from 9am-5pm. Immediately following the event, there will be a social event at Lucky Strike Social in the Fenway neighborhood, where attendees can mix and mingle over bowling, food and drink.
 
@@ -14,7 +14,7 @@ There are two types of talk slots: 5-minute lightning talks and 15-minute presen
 For full consideration, please complete [this form](https://forms.gle/ENyNdduh7jHMj1TH7) by September 8, 2023. Speakers will be notified of the talk length and time slot by September 13th, 2023.
 
 ### Registration
-We ask that all who are planning to attend the event register in advance so that we can have an accurate headcount for food and drink. Registration will open in September 2023.
+We ask that all who are planning to attend the event register in advance so that we can have an accurate headcount for food and drink. Please complete [this registration form](https://forms.gle/gZ3FBGLZyaWJVznH8) by September 17, 2023.
 
 ### Schedule
 
