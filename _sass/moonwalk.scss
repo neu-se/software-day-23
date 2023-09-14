@@ -39,16 +39,25 @@ li { margin: 0.4em 0; }
 
 table {
   width: 100%;
-  border: thin solid black;
-  border-collapse: collapse;
+  // border: thin solid black;
+  // border-collapse: collapse;
   padding: 0.4em;
 }
 
 th, td{
-  border: thin solid black;
-  border-collapse: collapse;
+  // border: thin solid black;
+  // border-collapse: collapse;
   padding: 0.4em;
   min-width: 120px;
+}
+
+td.break {
+  text-align: center;
+  font-weight: bold;
+}
+.break td{
+  border-top: black thin solid;
+  border-bottom: black thin solid;
 }
 
 div.highlighter-rouge pre code, pre code.highlighter-rouge {
