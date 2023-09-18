@@ -22,7 +22,7 @@ We ask that all who are planning to attend the event register in advance so that
 <tr><th>Time</th><th>Speaker</th><th>Topic</th></tr>
 <tr class="break"><td>8:30 am</td><td colspan="2" class="break">Breakfast</td></tr>
 <tr><td> 9:00-9:15am</td><td>TBD</td><td>Opening Remarks</td></tr>
-<tr><td>9:15-9:30am</td><td>Michelle Thalakottur</td><td>Making Interpreters Fast (At Fastly)</td></tr>
+<tr><td>9:15-9:30am</td><td>Daniel Melcer</td><td>Constrained Generation 🫴🦋 Is This Shielding?</td></tr>
 <tr><td>9:35-9:40am</td><td>Ankit Kumar</td><td>Proving Distributed Systems correct using Refinement</td></tr>
 <tr><td>9:45-10:00am</td><td>Luna Phipps-Costin</td><td>Continuing WebAssembly with WasmFX</td></tr>
 <tr><td>10:05-10:10am</td><td>Abdelrahman Madkour</td><td>Probabilistic Programming For Video Game Development</td></tr>
@@ -32,7 +32,7 @@ We ask that all who are planning to attend the event register in advance so that
 <tr><td>11:20-11:25am</td><td>Yangtian Zi</td><td>StudentEval: A Benchmark of Student-Written Prompts for Large Language Models of Code</td></tr>
 <tr><td>11:30-11:45am</td><td>Andrew Wagner</td><td>All the Binaries Together</td></tr>
 <tr><td>11:50-11:55am</td><td>Lisa Oakley</td><td>Differential Privacy Verification</td></tr>
-<tr><td>12:00-12:15pm</td><td>Daniel Melcer</td><td>Constrained Generation 🫴🦋 Is This Shielding?</td></tr>
+<tr><td>12:00-12:15pm</td><td>Michelle Thalakottur</td><td>Making Interpreters Fast (At Fastly)</td></tr>
 <tr class="break"><td>12:15-1:30pm</td><td colspan="2" class="break">Lunch</td></tr>
 <tr><td>1:30-1:45pm</td><td>Satyajit Gokhale</td><td>Semantic Code Clustering at Scale</td></tr>
 <tr><td>1:50-1:55pm</td><td>Olek Gierczak</td><td>Gradually Typed Languages Should Be Vigilant!</td></tr>
