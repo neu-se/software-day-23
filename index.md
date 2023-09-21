@@ -37,14 +37,13 @@ We ask that all who are planning to attend the event register in advance so that
 <tr><td>1:30-1:45pm</td><td>Satyajit Gokhale</td><td>Semantic Code Clustering at Scale</td></tr>
 <tr><td>1:50-1:55pm</td><td>Olek Gierczak</td><td>Gradually Typed Languages Should Be Vigilant!</td></tr>
 <tr><td>2:00-2:15pm</td><td>John Li</td><td>Lilac: A Modal Separation Logic for Conditional Probability</td></tr>
-<tr><td>2:20-2:25pm</td><td>Sam Stites</td><td>A Multi-Language Approach to Heterogeneous Probabilistic Program Inference</td></tr>
+<tr><td>2:20-2:25pm</td><td>Minsung Cho</td><td>Free Dice: Weighted Model Counting via Effects</td></tr>
 <tr><td>2:30-2:45pm</td><td>Derek Egolf</td><td>Toward Fitness-Optimal Synthesis of Distributed Protocols</td></tr>
 <tr class="break"><td>2:45-3:15pm</td><td colspan="2" class="break">Coffee Break</td></tr>
 <tr><td>3:15-3:30pm</td><td>Jane Adams</td><td>Systemic Challenges of Visualization Software Engineering in Genetics Research</td></tr>
-<tr><td>3:35-3:40pm</td><td>Minsung Cho</td><td>Free Dice: Weighted Model Counting via Effects</td></tr>
-<tr><td>3:45-4:00pm</td><td>Max Bernstein</td><td>Intro to ML compilers</td></tr>
-<tr><td>4:05-4:20pm</td><td>Andrew Walter</td><td>Witness-Generating Data Types</td></tr>
-<tr><td>4:25-4:55pm</td><td colspan="2">Faculty Panel: Software Research, Moderator: Michelle Thalakottur</td></tr>
+<tr><td>3:35-3:50pm</td><td>Max Bernstein</td><td>Intro to ML compilers</td></tr>
+<tr><td>3:55-4:10pm</td><td>Andrew Walter</td><td>Witness-Generating Data Types</td></tr>
+<tr><td>4:15-4:55pm</td><td colspan="2">Faculty Panel: Software Research, Moderator: Michelle Thalakottur</td></tr>
 <tr><td>4:55-5:00pm</td><td>Gwen Lincroft</td><td>Closing Remarks</td></tr>
 <tr class="break"><td class="break">6:00-8:00pm</td><td colspan="2" class="break">Social Event at Lucky Strike</td></tr>
 </table>

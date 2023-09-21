@@ -1,0 +1,22 @@
+current directory: /Users/minsung/Documents/software-day-23/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /Users/minsung/.opam in PATH, mode 040777
+creating Makefile
+
+current directory: /Users/minsung/Documents/software-day-23/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230921-82140-1luzzay sitelibdir\=./.gem.20230921-82140-1luzzay clean
+
+current directory: /Users/minsung/Documents/software-day-23/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230921-82140-1luzzay sitelibdir\=./.gem.20230921-82140-1luzzay
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/a0876c02-1788-11ed-b9c4-96898e02b808/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.6.Internal.sdk/usr/local/lib'
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/minsung/Documents/software-day-23/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230921-82140-1luzzay sitelibdir\=./.gem.20230921-82140-1luzzay install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230921-82140-1luzzay
+
+current directory: /Users/minsung/Documents/software-day-23/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230921-82140-1luzzay sitelibdir\=./.gem.20230921-82140-1luzzay clean
