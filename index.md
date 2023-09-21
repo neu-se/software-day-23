@@ -21,7 +21,7 @@ We ask that all who are planning to attend the event register in advance so that
 <table>
 <tr><th>Time</th><th>Speaker</th><th>Topic</th></tr>
 <tr class="break"><td>8:30 am</td><td colspan="2" class="break">Breakfast</td></tr>
-<tr><td> 9:00-9:15am</td><td>TBD</td><td>Opening Remarks</td></tr>
+<tr><td>9:00-9:15am</td><td>Gwen Lincroft</td><td>Opening Remarks</td></tr>
 <tr><td>9:15-9:30am</td><td>Daniel Melcer</td><td>Constrained Generation 🫴🦋 Is This Shielding?</td></tr>
 <tr><td>9:35-9:40am</td><td>Ankit Kumar</td><td>Proving Distributed Systems correct using Refinement</td></tr>
 <tr><td>9:45-10:00am</td><td>Luna Phipps-Costin</td><td>Continuing WebAssembly with WasmFX</td></tr>
@@ -44,8 +44,8 @@ We ask that all who are planning to attend the event register in advance so that
 <tr><td>3:35-3:40pm</td><td>Minsung Cho</td><td>Free Dice: Weighted Model Counting via Effects</td></tr>
 <tr><td>3:45-4:00pm</td><td>Max Bernstein</td><td>Intro to ML compilers</td></tr>
 <tr><td>4:05-4:20pm</td><td>Andrew Walter</td><td>Witness-Generating Data Types</td></tr>
-<tr><td>4:25-4:55pm</td><td>TBD</td><td>Panel: Software Research</td></tr>
-<tr><td>4:55-5:00pm</td><td>TBD</td><td>Closing Remarks</td></tr>
+<tr><td>4:25-4:55pm</td><td colspan="2">Faculty Panel: Software Research, Moderator: Michelle Thalakottur</td></tr>
+<tr><td>4:55-5:00pm</td><td>Gwen Lincroft</td><td>Closing Remarks</td></tr>
 <tr class="break"><td class="break">6:00-8:00pm</td><td colspan="2" class="break">Social Event at Lucky Strike</td></tr>
 </table>
 
