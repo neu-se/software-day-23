@@ -26,7 +26,7 @@ We ask that all who are planning to attend the event register in advance so that
 <tr><td>9:35-9:40am</td><td>Ankit Kumar</td><td>Proving Distributed Systems correct using Refinement. <a href="/software-day-23/assets/slides/kumar.pdf">Slides</a></td></tr>
 <tr><td>9:45-10:00am</td><td>Luna Phipps-Costin</td><td>Continuing WebAssembly with WasmFX</td></tr>
 <tr><td>10:05-10:10am</td><td>Abdelrahman Madkour</td><td>Probabilistic Programming For Video Game Development</td></tr>
-<tr><td>10:15-10:30am</td><td>Farideh Khalili</td><td>Test Migration for Android Applications</td></tr>
+<tr><td>10:15-10:30am</td><td>Farideh Khalili</td><td>Test Migration for Android Applications. <a href="/software-day-23/assets/slides/khalili.pdf">Slides</a></td></tr>
 <tr class="break"><td> 10:30-11:00am</td><td colspan="2" class="break">Coffee Break</td></tr>
 <tr><td>11:00-11:15am</td><td>John Gouwar</td><td>Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs</td></tr>
 <tr><td>11:20-11:25am</td><td>Yangtian Zi</td><td>StudentEval: A Benchmark of Student-Written Prompts for Large Language Models of Code</td></tr>
